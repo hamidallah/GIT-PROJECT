@@ -1,0 +1,1 @@
+print('Hello again, World! This is a new file named test2.py')
