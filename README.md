@@ -1,4 +1,5 @@
 Task 								Command
+
 Clone the repository						git clone <GitHub Repository URL>
 Navigate to the project directory				cd <Cloned project name>
 Install PHP dependencies					composer install
